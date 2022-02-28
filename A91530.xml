@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True intelligence from Lincolne-shire. Discovered by a letter to a private gentleman. Presented to the view and consideration of the peaceably minded.</title>
+            <author>M. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91530</idno>
+            <idno type="STC">Wing P83A</idno>
+            <idno type="STC">Thomason E113_7</idno>
+            <idno type="STC">ESTC R22120</idno>
+            <idno type="EEBO-CITATION">99871594</idno>
+            <idno type="PROQUEST">99871594</idno>
+            <idno type="VID">124006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91530)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124006)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E113[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True intelligence from Lincolne-shire. Discovered by a letter to a private gentleman. Presented to the view and consideration of the peaceably minded.</title>
+                  <author>M. P.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642. August 22.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: M. P.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lincolnshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124006:1"/>
+            <!-- PDF PAGE 112 -->
+            <pb facs="tcp:124006:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 112 -->
+            <p>TRVE INTELLIGENCE FROM Lincolne-shire.</p>
+            <p>Diſcovered by a Letter to a private Gentleman.</p>
+            <p>Preſented to the view and con<g ref="char:EOLhyphen"/>ſideration of the peaceably minded.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. M.</hi> 1642. <hi>Auguſt</hi> 22.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:124006:2"/>
+            <!-- PDF PAGE 113 -->
+            <pb facs="tcp:124006:2"/>
+            <!-- PDF PAGE 113 -->
+            <head>TRUE INTELLIGENCE from Lincolne-shire, diſ<g ref="char:EOLhyphen"/>covered in a Letter to a priuate Gentleman.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>TO cleare you from the miſre<g ref="char:EOLhyphen"/>ports of our County of <hi>Lincolne,</hi> I ſend you this as a true, and unpartiall relation of what hath paſſed in it ſince the Kings be<g ref="char:EOLhyphen"/>ing here.</p>
+            <p>The greateſt part of the conſiderable Gen<g ref="char:EOLhyphen"/>try then grounding their Actions upon the two Houſes of Parliament, Voteing the ne<g ref="char:EOLhyphen"/>ceſsity of putting the Kingdome into Po<g ref="char:EOLhyphen"/>ſture, and encourraged by their example, did ſubſcribe to maintaine ſome Horſes for three Monethes, to be in redineſſe for the defence of His Majeſties juſt Prerogative,
+<pb n="4" facs="tcp:124006:3"/>
+               <!-- PDF PAGE 114 -->the Proteſtant Religion, the Libertie, and propriety of the Subject, with the juſt Pri<g ref="char:EOLhyphen"/>veledges of Parliament, and peace of this Countie; And have now ſent thoſe Horſes to <hi>Lincolne</hi> (the Ceate of the Countrey) as a guard for thoſe parts, and fitteſt place to give reliefe to and preſent the reſt in peace, which (through Gods bleſsing) might bee effected (were it not for ſome ſtrange inſolencies by men of deſpicable condition) with as great a calme as can be wiſhed, there having been nothing acted, or attempted by any of the Commiſsioners of Array which can be con<g ref="char:EOLhyphen"/>ſtrued a diſturbance, but on the contrary, they have declind the contention for the publique Magazen, which hath beene the firſt blowne ſparke in other Counties. And I am confident their future endavours will bee onely the preſervation of peace within themſelves, in that they reſolve (having thus farre diſcharged their duties both to the King, and the two Houſes of Parliament) not to embarque further by ſending any Forces out of the County to aide either ſide, but as much as in them lies; to indeavour Ac<g ref="char:EOLhyphen"/>commodation,
+<pb n="5" facs="tcp:124006:3"/>
+               <!-- PDF PAGE 114 -->This (being converſant with the profeſsons of them all) I am able know<g ref="char:EOLhyphen"/>ingly to averre, and withall to give aſſurance that they would not have drawne their Horſes together but for theſe reaſons, which I collected at their debates.</p>
+            <p n="1">
+               <label>I.</label> That in ſo great a County, They would not exerciſe and make them fit for Service, as in other places; where they meet with conveniency of re<g ref="char:EOLhyphen"/>turning to their houſes when called to that duty.</p>
+            <p n="2">
+               <label>II.</label> For that ſome in this County have had Actuall violences offered upon them, by ſome of Sir <hi>Iohn Hothams</hi> Souldiers; And others have beene threat<g ref="char:EOLhyphen"/>ned to have their Houſes burnt by them: inſo<g ref="char:EOLhyphen"/>much as the People of thoſe Parts that lye upon, and about <hi>Humber,</hi> are in continuall Feares, and readie to leave their dwellings; if they have not the countenance of ſome little Fort to defend them.</p>
+            <p n="3">
+               <label>III.</label> The reine of Governement hath beene of ſlack<g ref="char:EOLhyphen"/>ned, as now tis cutt in peeces amongſt us, many
+<pb n="6" facs="tcp:124006:4"/>
+               <!-- PDF PAGE 115 -->men of deſperate Fortunes, and more wicked re<g ref="char:EOLhyphen"/>ſolutions live to geather, without the acknowledg<g ref="char:EOLhyphen"/>ment of any Law, ſo as no Legall preſſe can be at<g ref="char:EOLhyphen"/>tempted to be ſerved upon them; But they reſiſt it in a Warlike maner, accumulating all maner of Inſolencies, by adding to their Rebelion, violences upon mens Houſes, goods, and Lands, Burning Stealing, and devaſtating of them, ſo as the men of Fortunes had need ſerve them againſt ſuch Spirits.</p>
+            <p n="4">
+               <label>IIII.</label> This being a Maritine Countie, and ſo expo<g ref="char:EOLhyphen"/>ſed to the impreſsions of Forces from a broad, as well as to dangerous conſequences of Tumults, and Inſurrections from within, and not able ſo<g ref="char:EOLhyphen"/>dainely to gather any power to reſiſt the one, or ſuppreſſe the other (it being ſo large, and unpeo<g ref="char:EOLhyphen"/>pled a Countrey) there ſeemes a kinde of neceſ<g ref="char:EOLhyphen"/>ſity (in theſe times of diſtraction, and threatning miſcheifes) to have ſome in a continuall readineſſe.</p>
+            <p n="5">
+               <label>V.</label> Moſt of the adjacent. Counties being full of Souldiers, they may attempt ſuch outrages upon us, as will call for a preſent reſcue and help.</p>
+            <p>Upon all which the Gentlemen conceive them<g ref="char:EOLhyphen"/>ſelves not onely invited, but neceſsiated, to what they have done, with a hope it will receive good
+<pb n="7" facs="tcp:124006:4"/>
+               <!-- PDF PAGE 115 -->approbation from all others, that are not ſome way malignants either againſt the King or Par<g ref="char:EOLhyphen"/>lament, From which number I accquitt you, and (for my owne particular) do wiſh from my Soule, Reformation; or Ruine to him that is not deſirous (by all Iuſt and Honourable wayes,) to advance the Proſperity of both. So concludes and reſts,</p>
+            <closer>
+               <signed>Your Freind, and Servant, M. P.</signed>
+               <date>
+                  <hi>Auguſt</hi> 15. 1642.</date>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
